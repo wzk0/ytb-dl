@@ -18,15 +18,11 @@ pip install lxml
 
 ### 情景1:频道
 
-<video id="video" controls="" preload="none">
-      <source id="webm" src="https://github.com/wzk0/photo/blob/main/%E5%BD%95%E5%B1%8F%202022%E5%B9%B407%E6%9C%8823%E6%97%A5%2021%E6%97%B655%E5%88%8646%E7%A7%92.webm?raw=true" type="video/webm">
-</videos>
+[录屏 2022年07月23日 21时55分46秒.webm](https://user-images.githubusercontent.com/89891126/180609679-82e1224d-29ba-485f-a87d-9cb3591a15d8.webm)
 
 先通过F12定位到视频所在区块,接着直接复制HTML代码即可.
 
-<video id="video" controls="" preload="none">
-      <source id="webm" src="https://github.com/wzk0/photo/blob/main/%E5%BD%95%E5%B1%8F%202022%E5%B9%B407%E6%9C%8823%E6%97%A5%2021%E6%97%B657%E5%88%8634%E7%A7%92.webm?raw=true" type="video/webm">
-</videos>
+[录屏 2022年07月23日 21时57分34秒.webm](https://user-images.githubusercontent.com/89891126/180609671-bd3a2c5a-2159-488e-8175-0a6e8a81c6c0.webm)
 
 随后粘贴进终端(通过nano写入的缓存文件),就可以开始下载频道的所有音频了!
 
